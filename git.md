@@ -1,5 +1,5 @@
 # Remove all changes
 ```
 gco -- .
-git clean -df
+g clean -df
 ```
